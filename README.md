@@ -4,7 +4,7 @@
 Hola, soy Miguel Guzmán, Consultor TI en SPS. Me apasionan las tecnologías enfocadas a la nube y las bases de datos.
 
 ## Mi Rol en SPS
-Breve descripción de tu rol y responsabilidades en la empresa.
+Mis principales funciones
 
 ## Habilidades y Expertise
 Habilidad 1
